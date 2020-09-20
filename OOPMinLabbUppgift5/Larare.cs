@@ -11,5 +11,10 @@ namespace OOPMinLabbUppgift5
         public string Namn { get; set; }
 
         public int Telefon { get; set; }
+
+        public void AnsvarigForKurser()
+        {
+
+        }
     }
 }
